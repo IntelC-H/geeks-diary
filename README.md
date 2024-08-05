@@ -1,3 +1,4 @@
+Hi there~~~
 # Geek's Diary
 
 [![Build Status](https://img.shields.io/travis/seokju-na/geeks-diary.svg?style=flat-square)](https://travis-ci.org/seokju-na/geeks-diary)
